@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: 49b3575b542d610489554dea8fd7eeeb
+timeCreated: 1513859544
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Handle
+    21300002: Gear
+    21300004: MasherR
+    21300006: MasherL
+    21300008: Arrow
+    21300010: Hammer
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1111.1111
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Handle
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 6978
+        width: 526
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -196.82568, y: 153.5}
+        - {x: -263, y: 146.34206}
+        - {x: -263, y: -152.62085}
+        - {x: -199.25122, y: -153.5}
+        - {x: -192.06824, y: -44.69629}
+        - {x: 263, y: -49.407463}
+        - {x: 263, y: 43.128674}
+        - {x: -192.79688, y: 36.322754}
+      physicsShape:
+      - - {x: -197.42859, y: 153.5}
+        - {x: -263, y: 153.5}
+        - {x: -263, y: -149.06177}
+        - {x: -196.38586, y: -153.5}
+        - {x: -194.896, y: -48.868164}
+        - {x: 263, y: -42.2893}
+        - {x: 263, y: 39.56959}
+        - {x: -193.07483, y: 44.18457}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gear
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 6355
+        width: 569
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -149.44656, y: 257.5}
+        - {x: -284.5, y: 105.25186}
+        - {x: -284.5, y: -90.49766}
+        - {x: -170.79387, y: -257.5}
+        - {x: 152.9736, y: -257.5}
+        - {x: 284.5, y: -58.46592}
+        - {x: 284.5, y: 94.574615}
+        - {x: 156.5315, y: 257.5}
+      physicsShape:
+      - - {x: -160.12021, y: 257.5}
+        - {x: -284.5, y: 51.865627}
+        - {x: -284.5, y: -76.26133}
+        - {x: -167.23598, y: -257.5}
+        - {x: 192.11034, y: -257.5}
+        - {x: 284.5, y: -51.347755}
+        - {x: 284.5, y: 69.66104}
+        - {x: 156.5315, y: 257.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MasherR
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4497
+        width: 1288
+        height: 1363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 426.67114, y: 681.5}
+        - {x: 69.71448, y: 523.2031}
+        - {x: -644, y: 490.7124}
+        - {x: -643.8598, y: -393.17865}
+        - {x: 55.643555, y: -427.2046}
+        - {x: 432.1012, y: -681.5}
+        - {x: 644, y: -681.4643}
+        - {x: 644, y: 681.5}
+      physicsShape:
+      - - {x: 443.0874, y: 681.5}
+        - {x: 223.6825, y: 537.39746}
+        - {x: -644, y: 488.36377}
+        - {x: -643.8598, y: -446.56488}
+        - {x: 159.87402, y: -423.08008}
+        - {x: 408.95752, y: -681.5}
+        - {x: 644, y: -681.4643}
+        - {x: 644, y: 681.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MasherL
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 4500
+        width: 1295
+        height: 1364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -176.66821, y: 527.91113}
+        - {x: -444.4536, y: 682}
+        - {x: -647.5, y: 682}
+        - {x: -647.5, y: -682}
+        - {x: -408.20605, y: -682}
+        - {x: -151.38892, y: -456.6548}
+        - {x: 647.5, y: -367.5786}
+        - {x: 647.5, y: 488.78125}
+      physicsShape:
+      - - {x: -189.08008, y: 524.5054}
+        - {x: -437.23364, y: 682}
+        - {x: -647.5, y: 682}
+        - {x: -647.5, y: -682}
+        - {x: -408.2688, y: -682}
+        - {x: -181.85132, y: -435.58838}
+        - {x: 647.5, y: -354.60156}
+        - {x: 647.5, y: 494.46826}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arrow
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 653
+        width: 351
+        height: 3271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 115.356445, y: 1445.8049}
+        - {x: -4.8513184, y: 1635.5}
+        - {x: -123.45178, y: 1416.5544}
+        - {x: -175.5, y: 1204.575}
+        - {x: -80.42523, y: 926.448}
+        - {x: -44.88611, y: -1635.5}
+        - {x: 60.002003, y: -1635.4897}
+        - {x: 60.002003, y: -1631.9307}
+        - {x: 81.91315, y: 920.10156}
+        - {x: 175.5, y: 1217.8713}
+      physicsShape:
+      - - {x: 109.21033, y: 1455.3333}
+        - {x: -1.0163574, y: 1635.5}
+        - {x: -127.25305, y: 1435.8042}
+        - {x: -175.5, y: 1224.727}
+        - {x: -76.80243, y: 1042.456}
+        - {x: -46.734528, y: -1635.4897}
+        - {x: 52.886234, y: -1635.4897}
+        - {x: 80.47418, y: 1029.4536}
+        - {x: 175.5, y: 1234.8027}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hammer
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1112
+        width: 778
+        height: 2171
+      alignment: 9
+      pivot: {x: 0.5148923, y: 0.014342671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.97485, y: -1085.5}
+        - {x: 55.5737, y: -1085.5}
+        - {x: 86.819824, y: 755.6262}
+        - {x: 389, y: 764.41724}
+        - {x: 389, y: 1085.5}
+        - {x: -389, y: 1085.5}
+        - {x: -389, y: 773.3533}
+        - {x: -105.8208, y: 753.1138}
+      physicsShape:
+      - - {x: -389, y: 1085.5}
+        - {x: -389, y: 809.77124}
+        - {x: -90.82129, y: 772.4082}
+        - {x: -57.803223, y: -1085.5}
+        - {x: 41.342163, y: -1085.5}
+        - {x: 79.8833, y: 768.32227}
+        - {x: 389, y: 758.14526}
+        - {x: 389, y: 1085.5}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

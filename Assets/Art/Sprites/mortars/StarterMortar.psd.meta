@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: 7635cf80ff01ddf43a4b85b5eaac2765
+timeCreated: 1509733474
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StarterMortar_EyeBrow
+    21300002: StarterMortar_Eye
+    21300004: StarterMortar_Base
+    21300006: StarterMortar_Mostach
+    21300008: StarterMortar_FootL
+    21300010: StarterMortar_FootR
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 930
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StarterMortar_EyeBrow
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2562
+        width: 705
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 352.5, y: 80.96484}
+        - {x: 333.25586, y: 122.73604}
+        - {x: 253.20508, y: 187.1333}
+        - {x: 152.27148, y: 225}
+        - {x: 35.675785, y: 225}
+        - {x: -42.634758, y: 192.3547}
+        - {x: -183.59373, y: 185.39284}
+        - {x: -134.86717, y: 129.6979}
+        - {x: -303.6699, y: 82.70531}
+        - {x: -267.12497, y: -0.83708966}
+        - {x: -324.5527, y: -63.49389}
+        - {x: -347.17575, y: -117.44836}
+        - {x: -352.39645, y: -148.77675}
+        - {x: -352.39645, y: -225}
+        - {x: -334.9941, y: -225}
+        - {x: 9.572271, y: -23.463156}
+        - {x: 322.81445, y: 47.895977}
+        - {x: 352.5, y: 54.85784}
+      physicsShape:
+      - - {x: 180.11523, y: 225}
+        - {x: -77.439445, y: 225}
+        - {x: -207.95702, y: 176.6905}
+        - {x: -279.3066, y: 80.96484}
+        - {x: -348.916, y: 30.49131}
+        - {x: -350.65622, y: 7.8652434}
+        - {x: -350.65622, y: -225}
+        - {x: -239.28123, y: -225}
+        - {x: 352.39844, y: 53.117374}
+        - {x: 352.5, y: 56.59831}
+        - {x: 352.5, y: 91.40764}
+        - {x: 234.0625, y: 202.7975}
+      tessellationDetail: 0.07
+    - serializedVersion: 2
+      name: StarterMortar_Eye
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 2601
+        width: 255
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.604443, y: 169}
+        - {x: -127.5, y: 104.30052}
+        - {x: -127.5, y: -104.55547}
+        - {x: -68.56538, y: -168.95274}
+        - {x: 72.3936, y: -168.95274}
+        - {x: 127.5, y: -127.18154}
+        - {x: 127.5, y: 100.81959}
+        - {x: 93.27641, y: 169}
+      physicsShape:
+      - - {x: -70.30561, y: 169}
+        - {x: -127.5, y: 93.85772}
+        - {x: -127.5, y: -83.669876}
+        - {x: -94.66889, y: -167.21228}
+        - {x: 98.497116, y: -167.21228}
+        - {x: 127.5, y: -113.257805}
+        - {x: 127.5, y: 147.8122}
+        - {x: 63.692425, y: 169}
+      tessellationDetail: 0.03
+    - serializedVersion: 2
+      name: StarterMortar_Base
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 443
+        width: 3511
+        height: 2068
+      alignment: 9
+      pivot: {x: 0.3573578, y: 0.58680195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84.60934, y: -440.8059}
+        - {x: 171.62105, y: -365.96582}
+        - {x: 302.1386, y: -148.4075}
+        - {x: 899.039, y: -184.9573}
+        - {x: 1266.2284, y: -329.41602}
+        - {x: 1520.3026, y: -482.5771}
+        - {x: 1647.3397, y: -338.11838}
+        - {x: 1746.5331, y: -80.529305}
+        - {x: 1755, y: -7.429702}
+        - {x: 1755, y: 314.55664}
+        - {x: 1690.8456, y: 539.07684}
+        - {x: 1569.0292, y: 746.1924}
+        - {x: 1478.537, y: 784.4826}
+        - {x: 1436.7714, y: 721.8258}
+        - {x: 1099.1659, y: 584.329}
+        - {x: 448.3183, y: 471.19864}
+        - {x: 296.9179, y: 490.34375}
+        - {x: 225.56831, y: 645.2453}
+        - {x: 84.60934, y: 822.7729}
+        - {x: -99.8555, y: 967.2316}
+        - {x: -327.8262, y: 1036}
+        - {x: -667.1719, y: 1036}
+        - {x: -769.8457, y: 1017.70514}
+        - {x: -926.4668, y: 946.346}
+        - {x: -1138.7754, y: 779.2612}
+        - {x: -1326.7207, y: 690.49744}
+        - {x: -1544.25, y: 634.8025}
+        - {x: -1678.248, y: 448.57257}
+        - {x: -1754.8184, y: 283.22824}
+        - {x: -1754.8184, y: 91.77689}
+        - {x: -1716.5332, y: 15.196364}
+        - {x: -1505.9648, y: -33.5367}
+        - {x: -1479.8613, y: -141.44563}
+        - {x: -1335.4219, y: -212.80476}
+        - {x: -1076.127, y: -459.95102}
+        - {x: -996.0762, y: -674.02844}
+        - {x: -832.49414, y: -867.2202}
+        - {x: -275.61917, y: -1036}
+        - {x: -33.7266, y: -1036}
+        - {x: 215.1269, y: -910.7319}
+        - {x: 272.55463, y: -802.82294}
+        - {x: 262.11322, y: -694.914}
+      - - {x: 1318.4354, y: -1029.0836}
+        - {x: 1318.4354, y: -1036}
+        - {x: 1435.0311, y: -1036}
+        - {x: 1435.0311, y: -1029.0836}
+      physicsShape:
+      - - {x: 1407.1874, y: -1036}
+        - {x: 1405.4471, y: -1030.8241}
+        - {x: 1344.539, y: -1030.8241}
+        - {x: 1342.7987, y: -1036}
+      - - {x: 263.85345, y: -715.7996}
+        - {x: 82.8691, y: -439.06543}
+        - {x: 135.07613, y: -392.0728}
+        - {x: 239.49019, y: -254.57596}
+        - {x: 289.95697, y: -137.9647}
+        - {x: 646.705, y: -143.1861}
+        - {x: 1422.8495, y: -421.66077}
+        - {x: 1542.9257, y: -470.39383}
+        - {x: 1671.703, y: -325.9351}
+        - {x: 1755, y: 1.2726313}
+        - {x: 1755, y: 316.2971}
+        - {x: 1657.7811, y: 599.99316}
+        - {x: 1556.8475, y: 781.0017}
+        - {x: 1443.7323, y: 761.85657}
+        - {x: 979.0898, y: 547.7792}
+        - {x: 629.3027, y: 481.64142}
+        - {x: 295.17767, y: 497.30563}
+        - {x: 227.30855, y: 657.4285}
+        - {x: 20.220665, y: 897.613}
+        - {x: -299.98245, y: 1036}
+        - {x: -715.89844, y: 1036}
+        - {x: -766.36523, y: 1031.6289}
+        - {x: -1008.2578, y: 888.91064}
+        - {x: -1133.5547, y: 763.59705}
+        - {x: -1182.2812, y: 707.9021}
+        - {x: -1479.8613, y: 666.13086}
+        - {x: -1690.4297, y: 445.0916}
+        - {x: -1742.6367, y: 338.92316}
+        - {x: -1753.0781, y: 255.38077}
+        - {x: -1753.0781, y: 74.37223}
+        - {x: -1702.6113, y: 20.417765}
+        - {x: -1544.25, y: -31.796234}
+        - {x: -1377.1875, y: -219.76663}
+        - {x: -1284.9551, y: -202.36197}
+        - {x: -1140.5156, y: -411.21796}
+        - {x: -997.8164, y: -677.50934}
+        - {x: -822.05273, y: -867.2202}
+        - {x: -272.1387, y: -1036}
+        - {x: -139.88089, y: -1036}
+        - {x: -118.99808, y: -1034.305}
+        - {x: 81.12887, y: -1008.198}
+        - {x: 317.80072, y: -799.34204}
+      tessellationDetail: 0.03
+    - serializedVersion: 2
+      name: StarterMortar_Mostach
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 43
+        width: 1079
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 379.9751, y: 197.56049}
+        - {x: 243.50098, y: 200}
+        - {x: 56.825195, y: 163.40707}
+        - {x: -537.0603, y: -175.44293}
+        - {x: -377.51807, y: -185.15794}
+        - {x: 198.46753, y: -155.8836}
+        - {x: 319.60065, y: -199.7951}
+        - {x: 448.05225, y: -163.2022}
+        - {x: 517.5442, y: -82.812744}
+        - {x: 536.46265, y: 18.568665}
+        - {x: 498.02808, y: 111.73407}
+      physicsShape:
+      - - {x: 107.29207, y: 200}
+        - {x: -534.8544, y: -161.50484}
+        - {x: -534.8544, y: -198.05463}
+        - {x: 323.08112, y: -198.05463}
+        - {x: 347.4444, y: -151.06203}
+        - {x: 330.04205, y: -196.31416}
+        - {x: 330.04205, y: -198.05463}
+        - {x: 411.83307, y: -198.05463}
+        - {x: 528.4288, y: -166.72623}
+        - {x: 528.4288, y: 169.18382}
+        - {x: 420.53424, y: 200}
+      tessellationDetail: 0.03
+    - serializedVersion: 2
+      name: StarterMortar_FootL
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 43
+        width: 757
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -369.5587, y: -27.488907}
+        - {x: -378.39648, y: -152.8025}
+        - {x: 378.5, y: -152.8025}
+        - {x: 322.52728, y: -43.559494}
+        - {x: 255.54742, y: 26.46556}
+        - {x: 34.28836, y: 153}
+        - {x: -165.7787, y: 153}
+        - {x: -296.1956, y: 92.99597}
+      physicsShape:
+      - - {x: 152.37498, y: 153}
+        - {x: -260.06055, y: 153}
+        - {x: -371.43555, y: 17.763231}
+        - {x: -378.39648, y: -13.565168}
+        - {x: -378.39648, y: -152.8025}
+        - {x: 373.38474, y: -152.8025}
+        - {x: 378.5, y: -147.5811}
+        - {x: 378.5, y: -119.733635}
+        - {x: 176.73827, y: 150.0387}
+      tessellationDetail: 0.03
+    - serializedVersion: 2
+      name: StarterMortar_FootR
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 43
+        width: 757
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -378.5, y: -153}
+        - {x: 378.5, y: -152.8025}
+        - {x: 349.04065, y: -82.106964}
+        - {x: 197.14917, y: 76.39722}
+        - {x: 46.419987, y: 153}
+        - {x: -192.91248, y: 153}
+        - {x: -345.79187, y: 24.58963}
+      physicsShape:
+      - - {x: 29.017643, y: 150.0387}
+        - {x: -17.968683, y: 153}
+        - {x: -279.0038, y: 153}
+        - {x: -378.19717, y: 45.6107}
+        - {x: -378.19717, y: -152.8025}
+        - {x: 378.5, y: -152.8025}
+        - {x: 378.5, y: -117.993164}
+        - {x: 199.56061, y: 83.90096}
+      tessellationDetail: 0.03
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ball
+  - Hazard
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 3814937219
+    locked: 0
+  - name: Ball
+    uniqueID: 3191196893
+    locked: 0
+  - name: Mortar
+    uniqueID: 861414231
+    locked: 0
+  - name: Degrees
+    uniqueID: 779853839
+    locked: 0
+  - name: Gold
+    uniqueID: 3211335943
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 1157464377
+    locked: 0
+  - name: Hazard
+    uniqueID: 1089532179
+    locked: 0

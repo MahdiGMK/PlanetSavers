@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: 2300ef61268c06a4180f4f71f7b39a53
+timeCreated: 1509735225
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Gold0
+    21300002: Gold3
+    21300004: GoldBag
+    21300006: Gold1
+    21300008: Gold5
+    21300010: Gold4
+    21300012: Gold2
+    21300014: GoldCollection
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 800
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gold0
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2867
+        width: 241
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1.9868284, y: 93.5}
+        - {x: -114.287125, y: 38.79942}
+        - {x: -120.30129, y: -7.301653}
+        - {x: -120.30129, y: -91.48622}
+        - {x: 10.005722, y: -91.48622}
+        - {x: 120.5, y: -41.376358}
+        - {x: 120.5, y: 62.852154}
+        - {x: 110.24189, y: 93.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gold3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 2737
+        width: 264
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -132, y: -54.119385}
+        - {x: -118.15149, y: -66.14575}
+        - {x: 104.3728, y: -66.14575}
+        - {x: 132, y: -56.12378}
+        - {x: 132, y: 56.12231}
+        - {x: 126.42477, y: 68}
+        - {x: -122.160934, y: 68}
+        - {x: -132, y: 48.104733}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GoldBag
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 2595
+        width: 1554
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -482.94867, y: 745.5}
+        - {x: -777, y: -247.04321}
+        - {x: -777, y: -745.5}
+        - {x: 777, y: -743.31915}
+        - {x: 777, y: -142.50464}
+        - {x: 497.36105, y: 745.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gold1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2721
+        width: 263
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -99.28341, y: 67}
+        - {x: -119.33064, y: 55.15535}
+        - {x: -131.35898, y: 27.093826}
+        - {x: -131.35898, y: -41.055588}
+        - {x: -109.30702, y: -67}
+        - {x: 121.23616, y: -67}
+        - {x: 131.5, y: -41.055588}
+        - {x: 131.5, y: 65.17732}
+        - {x: 103.19365, y: 67}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gold5
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 2591
+        width: 262
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 39.275948, y: 68}
+        - {x: -44.922432, y: 68}
+        - {x: -95.04051, y: 54.43869}
+        - {x: -131, y: 28.381561}
+        - {x: -131, y: -35.759064}
+        - {x: -79.00273, y: -65.82498}
+        - {x: 77.36569, y: -65.82498}
+        - {x: 91.39876, y: -61.816193}
+        - {x: 131, y: -31.750275}
+        - {x: 131, y: 28.381561}
+        - {x: 115.45544, y: 66.46506}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gold4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2579
+        width: 264
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 70.50168, y: 68}
+        - {x: -89.87619, y: 68}
+        - {x: -129.97066, y: 36.425564}
+        - {x: -129.97066, y: -29.719456}
+        - {x: -81.85729, y: -65.79855}
+        - {x: 92.553635, y: -65.79855}
+        - {x: 132, y: -33.728245}
+        - {x: 132, y: 38.42996}
+        - {x: 116.61032, y: 62.482693}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gold2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2700
+        width: 278
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -129.48785, y: 67.227715}
+        - {x: -129.48785, y: -51.031563}
+        - {x: -87.388664, y: -69.07111}
+        - {x: 107.069496, y: -69.07111}
+        - {x: 135.13562, y: -47.022774}
+        - {x: 135.13562, y: 49.188164}
+        - {x: 127.11673, y: 67.227715}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GoldCollection
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2511
+        width: 1098
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -549, y: 56.09204}
+        - {x: -535.0174, y: -269.42773}
+        - {x: 549, y: -252.94751}
+        - {x: 549, y: 80.769775}
+        - {x: 80.39551, y: 290}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
